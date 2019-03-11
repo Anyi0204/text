@@ -16,10 +16,13 @@
 - RESTful API 风格的 API 接口
 
 ## 博客主页效果
-![博客主页 PC 效果](https://user-images.githubusercontent.com/30201215/39048724-0ad6e930-44d1-11e8-83f0-661734ddbde4.png)
+![博客主页 PC 效果](https://user-images.githubusercontent.com/30201215/54125719-b3ffeb00-4440-11e9-9edd-e2eabf2a9dd5.png)
+
+## 博客ipad显示效果（响应式）
+![ipad 竖屏效果](https://github.com/Hopetree/images/blob/master/izone-ipad.png)
 
 ## 博客手机端显示效果（响应式）
-![博客手机端效果](https://user-images.githubusercontent.com/30201215/39047823-e7daccb0-44cd-11e8-9851-5aa670a8a690.png)
+![博客手机端效果](https://github.com/Hopetree/images/blob/master/izone-iphone.png)
 
 ## 运行指导
 - 由于本项目分为几个不同的分支，每个分支的功能是一样的，但是运行的方式不同，所以需要根据分支查看对应的运行wiki
