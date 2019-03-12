@@ -19,7 +19,7 @@
 ![博客主页 PC 效果](https://user-images.githubusercontent.com/30201215/54125719-b3ffeb00-4440-11e9-9edd-e2eabf2a9dd5.png)
 
 ## 博客ipad显示效果（响应式）
-![ipad 竖屏效果](https://github.com/Hopetree/images/blob/master/izone-ipad.png)
+![ipad 竖屏效果](https://user-images.githubusercontent.com/30201215/54197732-aeb5a580-44ff-11e9-8d2c-8b02335b3826.png)
 
 ## 博客手机端显示效果（响应式）
 ![博客手机端效果](https://user-images.githubusercontent.com/30201215/54195790-9727ee00-44fa-11e9-91aa-7b5e9852f1f7.png)
