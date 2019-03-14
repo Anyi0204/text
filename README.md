@@ -15,6 +15,10 @@
 - 缓存系统，遵循缓存原则，加速网站打开速度
 - RESTful API 风格的 API 接口
 
+## Todo
+- [ ] 添加一个博客信息播报的版块，播报博客动态
+- [ ] 添加定时任务，提取Github上面项目的信息，显示到博客前台
+
 ## 博客主页效果
 ![博客主页 PC 效果](https://user-images.githubusercontent.com/30201215/54125719-b3ffeb00-4440-11e9-9edd-e2eabf2a9dd5.png)
 
